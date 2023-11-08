@@ -1,0 +1,114 @@
+body {
+    font-family: Arial, sans-serif;
+   /* background-image: url(Capture.JPG);*/
+   background-image: url(https://media.licdn.com/dms/image/C4D22AQFhDIQid0A_rg/feedshare-shrink_2048_1536/0/1652119707650?e=1701907200&v=beta&t=SvPbjLe9wzKwTmkb-GobNh5a6hvMN3_F9ewxuP6hggg);
+    background-size: cover;
+}
+
+.login {
+    background-color:deepskyblue; 
+    border-radius: 10px 10px 0 0;
+    max-width: 220px;
+    margin: 0 auto;
+    color:white; 
+    padding: 50px;
+    text-align: center;
+    position: relative;
+/*bottom:350*/  
+    
+}
+
+input {
+    color: #000; 
+    background-color:lightgoldenrodyellow; 
+    border: none;
+    width: 200px;
+}
+
+.login-container {
+    background-color: #fff;
+    padding: 50px;
+    border-radius: 0 0 10px 10px;
+  /*  box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);*/
+    max-width: 220px;
+    text-align: left;
+    margin: 0 auto;
+    position: relative;
+    /*bottom:350*/
+    
+    
+    
+
+    
+    
+
+    
+}
+
+
+label, input {
+    display: block;
+    margin: 10px 0;
+}
+
+button {
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+}
+
+.message {
+    color: red;
+    font-weight: bold;
+}
+
+h1 {
+    position: absolute;
+    top: 0;
+    left: 0;
+    text-align: left;
+    color: white;
+    margin-left: 30px;
+    padding-left: 55px;
+    padding-top: 45px;
+
+}
+/*
+h3{
+    color: darksalmon;
+    text-align: center;
+    text-align: left;
+    padding-top: 200px;
+    padding-left: 45px;
+    position:absolute;
+    font-size: 30px;
+    font-family:sans-serif;
+    font-weight:lighter
+    
+}
+h4{
+    color: darksalmon;
+    text-align: center;
+    text-align: right;
+    padding-top: 200px;
+    padding-right: 45px;
+    font-size: 30px;
+    font-family:sans-serif;
+    font-weight:lighter;
+    
+    
+}
+
+img{
+    padding-top: 45px;
+    padding-left: 2px;
+
+}
+small{
+    color: white;
+    padding-top: 87px;
+    padding-left: 10px;
+    position: absolute;
+}
